@@ -1,5 +1,5 @@
 ---
-title: "DFS 알고리즘을 이용한 절차적 미로 생"
+title: "DFS 알고리즘을 이용한 절차적 미로 생성"
 date: 2017-10-20 08:26:28 -0400
 categories: Game Dev
 ---
