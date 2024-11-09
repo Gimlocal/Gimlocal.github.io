@@ -1,7 +1,7 @@
 ---
 title: "DFS 알고리즘을 이용한 절차적 미로 생성"
 date: 2024-11-08 15:59:30 -0400
-category: jekyll update
+categories: jekyll update
 ---
 
 ```cs
