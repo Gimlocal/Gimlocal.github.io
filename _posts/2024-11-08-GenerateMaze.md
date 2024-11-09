@@ -110,6 +110,8 @@ public class GenerateMaze : MonoBehaviour
     }
 }
 ```
+코드 실행 결과는 아래와 같습니다.<br>
+![image](https://github.com/user-attachments/assets/1828c766-0893-40e6-92ee-a46b04507dbb)
 
 
 ### 원리는 다음과 같습니다.<br>
@@ -138,6 +140,5 @@ public class GenerateMaze : MonoBehaviour
 
 위의 원리를 통해서 미로의 어떤 두 점을 가져와도 두 점을 잇는 경로는 단 하나로 유일함을 알 수 있습니다.<br>
 
-최종 결과는 아래와 같습니다.<br>
-![image](https://github.com/user-attachments/assets/1828c766-0893-40e6-92ee-a46b04507dbb)
+
 
